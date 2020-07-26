@@ -1,0 +1,39 @@
+.corpo{
+    width: 960px;
+    margin: auto;
+}
+#x1{
+    background-color: #fcc30b;
+    text-align: center;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    border-radius: 5px;
+    font-size: 37.5px;
+    border-width: 20px;
+}
+.conteudo{
+    display: table;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 22px;
+}
+.imagem{
+    display: table-cell;
+    float: left;
+    margin-top: -20px;
+    margin-left: 0px;
+    width: 150px;
+    height: 150px;
+}
+.texto{
+    display: table-column;
+    float: left;
+    width: 100px;
+    margin-top: 40px;
+    font-size: 600px;
+    margin-left: 0px;
+}
+.segundo{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+.fim{
+    background-color: #fcc30b;
+}
